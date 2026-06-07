@@ -160,7 +160,7 @@ export const packages: Package[] = [
     inclusions: ["Pickup & drop", "Local guide", "Permits", "Light refreshments"],
     exclusions: ["Travel to Munnar", "Meals"],
     faqs: commonTrekFaqs,
-    dates: [],
+    dates: ["September only"],
   },
 ];
 
