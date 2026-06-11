@@ -80,7 +80,7 @@ export const packages: Package[] = [
     inclusions: ["Accommodation", "Meals", "Trek Guide", "Permits", "Transportation"],
     exclusions: ["Travel to Manali", "Personal gear", "Insurance"],
     faqs: commonTrekFaqs,
-    dates: ["June 19-23, 2026", "June 26-30, 2026"],
+    dates: ["June 20-24, 2026", "June,July 28-2, 2026"],
   },
   {
     slug: "valley-of-flowers-hemkund",
