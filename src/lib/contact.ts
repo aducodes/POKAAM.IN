@@ -1,6 +1,6 @@
 // Update these to route inquiries to your number / inbox.
 export const POKAAM_WHATSAPP = "918590122540"; // country code + number, no + or spaces
-export const POKAAM_EMAIL = "hello@pokaam.in.com";
+export const POKAAM_EMAIL = "pokaam.inn@gmail.com";
 export const POKAAM_INSTAGRAM = "https://instagram.com/pokaam.in";
 
 export const buildWhatsAppUrl = (message: string) =>
