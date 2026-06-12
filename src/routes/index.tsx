@@ -44,8 +44,8 @@ function Home() {
             initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, delay: 0.1 }}
             className="mt-6 max-w-4xl font-display text-5xl leading-[1.05] md:text-7xl lg:text-8xl"
           >
-            Walk slower.<br />
-            <span className="italic text-[var(--color-gold)]">See farther.</span>
+            Curated journeys.<br />
+            <span className="italic text-[var(--color-gold)]">Lasting Memories.</span>
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, delay: 0.2 }}
