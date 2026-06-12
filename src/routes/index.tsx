@@ -42,7 +42,7 @@ function Home() {
           </motion.p>
           <motion.h1
             initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, delay: 0.1 }}
-            className="mt-6 max-w-4xl font-display text-5xl leading-[1.05] md:text-7xl lg:text-8xl"
+            className="mt-6 max-w-4xl font-display text-[2.9rem] leading-[1.05] md:text-7xl lg:text-[5rem]"
           >
             Curated journeys.<br />
             <span className="italic text-[var(--color-gold)]">Lasting Memories.</span>
